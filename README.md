@@ -1,4 +1,4 @@
-## Hello World! Eu sou o Eduardo
+## Hello World! Eu sou o Eduardo Borges
 <div>
  <a href="https://www.github.com/edu-03borges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-03borges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
