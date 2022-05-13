@@ -46,4 +46,4 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/edu-03borges/edu-03borges/output/github-contribution-grid-snake.svg)
+ <!--![github contribution grid snake animation](https://raw.githubusercontent.com/edu-03borges/edu-03borges/output/github-contribution-grid-snake.svg)-->
