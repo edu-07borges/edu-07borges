@@ -6,8 +6,10 @@
 </div>
 
 ## MY FORMATIONS
-<div style="display: flex; justify-content: center; align-items: center; height: 50px">
- <img width="95px" src="./assets/ignite.png" title="ignite"/> 
+<div style="display: flex; justify-content: center; align-items: center">
+ <img width="95px" height="30px" src="./assets/ignite.png" title="ignite"/>
+ <img width="95px" height="30px" src="./assets/senai.png" title="senai"/>
+ <img width="95px" height="30px" src="./assets/alura.png" title="alura"/>
 </div>
   
 ## MY SKILLS
