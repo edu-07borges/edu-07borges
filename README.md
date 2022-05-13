@@ -36,7 +36,7 @@
  <a href="https://www.linkedin.com/in/eduardo-inácio-borges-07794322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Visitas no pefil - Atividade
+## Visitas no pefil
 
 <!-- visitors count  -->
 
