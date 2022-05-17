@@ -15,7 +15,7 @@
 ## MY SKILLS
  
 <div>
-<img src="https://img.shields.io/badge/C++-00589D?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
+<img src="https://img.shields.io/badge/C/C++-00589D?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-1283e0?&style=for-the-badge&logo=Docker&logoColor=white"/>
