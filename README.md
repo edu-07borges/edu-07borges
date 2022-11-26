@@ -1,8 +1,8 @@
 ## Hello World! Eu sou o Eduardo Borges
 <div>
- <a href="https://www.github.com/edu-03borges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-03borges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-03borges&layout=compact&langs_count=16&theme=dark"/>
+ <a href="https://www.github.com/edu-07borges">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-07borges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-07borges&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ## MY FORMATIONS
@@ -44,7 +44,7 @@
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/edu-03borges/count.svg" />  
+  <img src="https://profile-counter.glitch.me/edu-07borges/count.svg" />  
 </p>
 
 <!-- github workflow  -->
